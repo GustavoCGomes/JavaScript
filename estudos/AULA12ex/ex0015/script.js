@@ -42,7 +42,7 @@ function verificar() {
                 img.setAttribute('src','mulher-velha.png')
              }
         }
-        res.getElementsByClassName.textAlign = 'center'
+        res.style.textAlign = 'center'
         res.innerHTML = `Detectamos ${gênero} com ${idade} anos.`
         res.appendChild(img)
     }
