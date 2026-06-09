@@ -1,20 +1,24 @@
+/*
 var c = 1
 do {
-    console.log(`Passo ${c}`)
-    c++
+  console.log(`Passo ${c}`)
+  c++
 } while (c <= 6)
-
-/*var c = 1 
-while ( c <= 6) {
-    console.log(`Passo ${c}`)
-    c++
-}
 */
 
+/* Essa e a mais encontrada dentro de programas */
+var c = 1
+while (c <= 500) {
+  console.log(`Passo ${c}`)
+  c++
+}
+
+
 /*
-console.log('tudo bem?')
-console.log('tudo bem?')
-console.log('tudo bem?')
-console.log('tudo bem?')
-console.log('tudo bem?')
+console.log('Tudo bem?')
+console.log('Tudo bem?')
+console.log('Tudo bem?')
+console.log('Tudo bem?')
+console.log('Tudo bem?')
+console.log('Tudo bem?')
 */
